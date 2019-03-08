@@ -1,0 +1,38 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+.site_title a {
+    text-decoration: none;
+    color: darkslategray;
+}
+
+h1 {
+    color: royalblue;
+}
+
+h2 {
+    color: royalblue
+}
+
+.figure_title {
+    color: royalblue;
+    padding-right: 5px
+}
+
+
+
+.bring_it_home {
+    background-color: rgb(233, 233, 233);
+}
+
+.bring_it_home h2 {
+    background-color: black;
+    color: white;
+}
+
+.bring_it_home h3 {
+    font-weight: bold;
+}
