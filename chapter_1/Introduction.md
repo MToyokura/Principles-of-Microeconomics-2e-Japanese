@@ -2,7 +2,9 @@
 
 ![Facebookアプリを開いたスマートフォンの写真](img/CNX_Econv1-2_C01_00.jpg)
 <div class="figure_text">
-    <span class="figure_title">図 1.1 Facebookは使いますか？</span>経済学は情報がどれだけ上手く伝達されるかに大きく影響されます。今日ではTwitter、Facebook、Instagramといった大規模なソーシャルメディアは情報伝達の主力です。(Credit: Johan Larsson/Flickr)
+    <p>
+        <span class="figure_title">図 1.1 Facebookは使いますか？</span>経済学は情報がどれだけ上手く伝達されるかに大きく影響されます。今日ではTwitter、Facebook、Instagramといった大規模なソーシャルメディアは情報伝達の主力です。(Credit: Johan Larsson/Flickr)
+    </p>
 </div>
 
 <div class="bring_it_home">

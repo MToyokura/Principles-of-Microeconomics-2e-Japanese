@@ -25,7 +25,9 @@ FREDの使い方の情報は、YouTubeの様々な[説明のビデオ](https://o
 
 ![街のベンチで寝ているふたりのホームレス](img/CNX_Econ_C01_003.jpg)
 <div class="figure_text">
-    <span class="figure_title">図 1.2 希少資源</span>ホームレスの人々の存在は希少性が現実であることを気づかせます。(Credit: “daveynin”/Flickr Creative Commons)
+    <p>
+        <span class="figure_title">図 1.2 希少資源</span>ホームレスの人々の存在は希少性が現実であることを気づかせます。(Credit: “daveynin”/Flickr Creative Commons)
+    </p>
 </div>
 
 まだ希少性が問題だということが信じられなければ次のことを考えてみましょう。人間にとって食べ物は必要ですか？生活する適切な場所は必要ですか？皆が医療機関にアクセス可能ですか？世界中のどの国にも飢えている人やホームレスの人や、十分な医療を受けられていない人は存在しています。なぜこうなるのでしょうか。それは希少性のためです。経済学を理解するうえで重要となる希少性という概念をさらに深く掘り下げていきましょう。
@@ -43,7 +45,9 @@ FREDの使い方の情報は、YouTubeの様々な[説明のビデオ](https://o
 
 ![Adam Smith の肖像画](img/CNX_Econ_C01_008.jpg)
 <div class="figure_text">
-    <span class="figure_title">図 1.3 Adam Smith</span>Adam Smithは作業を細分化する考え方を提唱しました。(Credit:Wikimedia Commons)
+    <p>
+        <span class="figure_title">図 1.3 Adam Smith</span>Adam Smithは作業を細分化する考え方を提唱しました。(Credit:Wikimedia Commons)
+    </p>
 </div>
 
 ### 労働の分業と特化
@@ -55,7 +59,9 @@ Smithは、分業の例として、1つのピンを作るのにいったいど�
 
 ![靴会社で個別化された仕事に取り組んでいる工場労働者の写真](img/CNX_Econ_C01_009.jpg)
 <div class="figure_text">
-    <span class="figure_title">図 1.4 分業</span>流れ作業の労働者たちは分業の一例です。(Credit: Nina Hale/Flickr Creative Commons)
+    <p>
+        <span class="figure_title">図 1.4 分業</span>流れ作業の労働者たちは分業の一例です。(Credit: Nina Hale/Flickr Creative Commons)
+    </p>
 </div>
 
 ### なぜ分業で生産性が増すのか
