@@ -5,7 +5,7 @@
 OpenStaxはRice Universityを拠点としている非営利組織で、学生の教育へのアクセスを改善することを目的としています。2012年に初のオープンライセンスの大学教科書を出版し、現在では教科書の数は25教科を超え、数十万人の学生に利用されています。ローコストの教育支援ツールであるOpenStax Tutorはアメリカ国内の複数の授業で利用されています。慈善団体や他の教育リソース団体との連携を通じて、OpenStaxは学習の壁を取り払っており、生徒と指導者双方を支援しています。
 
 ## OpenStaxの教材について
-カスタマイズについて
+### カスタマイズについて
 OpenStaxが提供するPrinciples of Microeconomics 2eはクリエイティブ・コモンズライセンス 表示 4.0 国際 (CC BY 4.0)ライセンスのもとに提供されています。このためOpenStax及びコンテンツ作成者に対して適切なクレジット表示を行う限り、再配布、改変、二次利用が可能となっています。
 
 ## この教科書(「ミクロ経済学基礎」)について
@@ -16,9 +16,11 @@ OpenStaxが提供するPrinciples of Microeconomics 2eはクリエイティブ�
 ## Principles of Microeconomics 2eの著者
 ### Senior contributing authors
 **Steven A. Greenlaw, University of Mary Washington**
+
 Steven Greenlawは30年以上経済学の基礎を教えています。1999年にUniversity of Mary Washingtonで学部生向けの授業での賞を受賞ました。「Doing Economics: A Guide to Doing and Understanding Economic Research」の著者でもあり、Journal of Economic EducationやInternational Review of Economic Educationにて数々の教育学や指導技術に関する記事を投稿しています。経済学を教える際のベストプラクティスについてのウェブポータルである「Quantitative Writing for Starting Point: Teaching and Learning Economics」も書いています。
 
 **David Shapiro, Pennsylvania State University**
+
 David ShapiroはPennsylvania State Universityの経済学、人口学、女性のジェンダー及びセクシャリティにに関する学問の名誉教授です。University of Michiganにて経済学と政治学の学士号を取得し、Princeton Universityにて経済学の修士号及び博士号を取得しています。1971にOhio State Universityにて研究者としてのキャリアを開始し、1980年にPenn State Universityに移りました。当初の研究はアメリカ国内の労働市場における若者と女性にフォーカスしていました。1978年から1979年にUniversity of Kinshasa in the Democratic Republic of the Congoにてフルブライト教授としての仕事を終えた後、彼の研究はKinshasaおよびサブサハラ・アフリカにおける生殖へとシフトしていきます。Ohio State University及びPenn State Universityにて教育指導の最優秀賞を受賞しています。
 
 また、多くのデータを調査しアップデートし、イラストの多くを提供してくださったUniversity of Mary WashingtonのChristian Potterには特別な感謝を評します。
