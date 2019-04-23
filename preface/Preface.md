@@ -23,7 +23,7 @@ Steven Greenlawは30年以上経済学の基礎を教えています。1999年�
 
 David ShapiroはPennsylvania State Universityの経済学、人口学、女性のジェンダー及びセクシャリティにに関する学問の名誉教授です。University of Michiganにて経済学と政治学の学士号を取得し、Princeton Universityにて経済学の修士号及び博士号を取得しています。1971にOhio State Universityにて研究者としてのキャリアを開始し、1980年にPenn State Universityに移りました。当初の研究はアメリカ国内の労働市場における若者と女性にフォーカスしていました。1978年から1979年にUniversity of Kinshasa in the Democratic Republic of the Congoにてフルブライト教授としての仕事を終えた後、彼の研究はKinshasaおよびサブサハラ・アフリカにおける生殖へとシフトしていきます。Ohio State University及びPenn State Universityにて教育指導の最優秀賞を受賞しています。
 
-また、多くのデータを調査しアップデートし、イラストの多くを提供してくださったUniversity of Mary WashingtonのChristian Potterには特別な感謝を評します。
+また、多くのデータを調査、アップデートし、イラストの多くを提供してくださったUniversity of Mary WashingtonのChristian Potterには特別な感謝を評します。
 
 ### Development editor
 Thomas Sigel

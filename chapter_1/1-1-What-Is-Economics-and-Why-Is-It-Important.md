@@ -37,7 +37,7 @@ FREDの使い方の情報は、YouTubeの様々な[説明のビデオ](https://o
 
 <div class="link_it_up">
     <p>
-        このウェブサイトでは、アメリカが資源の希少性にどう対処しているかを紹介しています。
+        この<a href="http://openstax.org/l/drought">ウェブサイト</a>では、アメリカが資源の希少性にどう対処しているかを紹介しています。
     </p>
 </div>
 
