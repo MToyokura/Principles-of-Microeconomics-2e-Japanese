@@ -75,4 +75,4 @@ Chris Warburton, John Jay College of Criminal Justice, CUNY
 Mark Witte, Northwestern University
 Chiou-nan Yeh, Alabama State University
 
-### 日本語版の翻訳者
+## 日本語版の翻訳者
