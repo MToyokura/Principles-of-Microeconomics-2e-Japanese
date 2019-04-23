@@ -30,51 +30,94 @@ Thomas Sigel
 
 ### Contributing authors
 Eric Dodge, Hanover College
+
 Cynthia Gamez, University of Texas at El Paso
+
 Andres Jauregui, Columbus State University
+
 Diane Keenan, Cerritos College
+
 Dan MacDonald, California State University, San Bernardino
+
 Amyaz Moledina, The College of Wooster
+
 Craig Richardson, Winston-Salem State University
+
 Ralph Sonenshine, American University
 
 ### Reviewers
 Bryan Aguiar, Northwest Arkansas Community College
+
 Basil Al Hashimi, Mesa Community College
+
 Jennifer Ball, Washburn University
+
 Emil Berendt, Mount St. Mary's University
+
 Zena Buser, Adams State University
+
 Douglas Campbell, The University of Memphis
+
 Sanjukta Chaudhuri, University of Wisconsin-Eau Claire
+
 Xueyu Cheng, Alabama State University
+
 Robert Cunningham, Alma College
+
 Rosa Lea Danielson, College of DuPage
+
 Steven Deloach, Elon University
+
 Debbie Evercloud, University of Colorado Denver
+
 Sal Figueras, Hudson County Community College
+
 Reza Ghorashi, Richard Stockton College of New Jersey
+
 Robert Gillette, University of Kentucky
+
 George Jones, University of Wisconsin-Rock County
+
 Charles Kroncke, College of Mount St. Joseph
+
 Teresa Laughlin, Palomar Community College
+
 Carlos Liard-Muriente, Central Connecticut State University
+
 Heather Luea, Kansas State University
+
 Charles Meyrick, Housatonic Community College
+
 William Mosher, Nashua Community College
+
 Michael Netta, Hudson County Community College
+
 Nick Noble, Miami University
+
 Joe Nowakowski, Muskingum University
+
 Shawn Osell, University of Wisconsin, Superior
+
 Mark Owens, Middle Tennessee State University
+
 Sonia Pereira, Barnard College
+
 Brian Peterson, Central College
+
 Jennifer Platania, Elon University
+
 Robert Rycroft, University of Mary Washington
+
 Adrienne Sachse, Florida State College at Jacksonville
+
 Hans Schumann, Texas A&M University
+
 Gina Shamshak, Goucher College
+
 Chris Warburton, John Jay College of Criminal Justice, CUNY
+
 Mark Witte, Northwestern University
+
 Chiou-nan Yeh, Alabama State University
 
 ## 日本語版の翻訳者
