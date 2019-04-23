@@ -21,12 +21,25 @@ h2 {
     color: #000000
 }
 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .figure_title {
     color: #000000;
     padding-right: 5px;
     font-weight: bold;
 }
 
+.figure_text {
+    margin: 0% 10%;
+}
+
+strong {
+    font-weight: bold;
+}
 
 
 .bring_it_home {
