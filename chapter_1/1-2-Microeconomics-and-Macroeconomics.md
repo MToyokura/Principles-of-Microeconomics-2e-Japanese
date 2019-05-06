@@ -65,4 +65,4 @@
     </p>
 </div>
 
-[経済学者がどのように仮説やモデルを使って経済学的な課題を理解するのか >>](1-3-How-Economists-Use-Theories-and-Models-to-Understand-Economic-Issues)
+[1.3 経済学者がどのように仮説やモデルを使って経済学的な課題を理解するのか >>](1-3-How-Economists-Use-Theories-and-Models-to-Understand-Economic-Issues)

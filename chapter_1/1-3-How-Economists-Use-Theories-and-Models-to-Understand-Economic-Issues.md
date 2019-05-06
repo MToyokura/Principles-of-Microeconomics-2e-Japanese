@@ -83,4 +83,4 @@ John Maynard Keynes (1883–1946)は20世紀の最も偉大な経済学者の一
     </p>
 </div>
 
-[経済はどのように整理できるか：経済システムの概要 >>](1-4-How-To-Organize-Economies-An-Overview-of-Economic-Systems)
+[1.4 経済はどのように整理できるか：経済システムの概要 >>](1-4-How-To-Organize-Economies-An-Overview-of-Economic-Systems)
