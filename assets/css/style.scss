@@ -28,7 +28,9 @@ img {
 }
 
 table {
-    display: block;
+    display: table;
+    width: 90%;
+    overflow: auto;
     margin-left: auto;
     margin-right: auto;
 }
