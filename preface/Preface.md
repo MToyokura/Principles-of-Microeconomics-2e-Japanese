@@ -30,113 +30,61 @@ Thomas Sigel
 
 ### Contributing authors
 Eric Dodge, Hanover College
-
-Cynthia Gamez, University of Texas at El Paso
-
-Andres Jauregui, Columbus State University
-
-Diane Keenan, Cerritos College
-
-Dan MacDonald, California State University, San Bernardino
-
-Amyaz Moledina, The College of Wooster
-
-Craig Richardson, Winston-Salem State University
-
-Ralph Sonenshine, American University
+<br>Cynthia Gamez, University of Texas at El Paso
+<br>Andres Jauregui, Columbus State University
+<br>Diane Keenan, Cerritos College
+<br>Dan MacDonald, California State University, San Bernardino
+<br>Amyaz Moledina, The College of Wooster
+<br>Craig Richardson, Winston-Salem State University
+<br>Ralph Sonenshine, American University
 
 ### Reviewers
 Bryan Aguiar, Northwest Arkansas Community College
-
-Basil Al Hashimi, Mesa Community College
-
-Jennifer Ball, Washburn University
-
-Emil Berendt, Mount St. Mary's University
-
-Zena Buser, Adams State University
-
-Douglas Campbell, The University of Memphis
-
-Sanjukta Chaudhuri, University of Wisconsin-Eau Claire
-
-Xueyu Cheng, Alabama State University
-
-Robert Cunningham, Alma College
-
-Rosa Lea Danielson, College of DuPage
-
-Steven Deloach, Elon University
-
-Debbie Evercloud, University of Colorado Denver
-
-Sal Figueras, Hudson County Community College
-
-Reza Ghorashi, Richard Stockton College of New Jersey
-
-Robert Gillette, University of Kentucky
-
-George Jones, University of Wisconsin-Rock County
-
-Charles Kroncke, College of Mount St. Joseph
-
-Teresa Laughlin, Palomar Community College
-
-Carlos Liard-Muriente, Central Connecticut State University
-
-Heather Luea, Kansas State University
-
-Charles Meyrick, Housatonic Community College
-
-William Mosher, Nashua Community College
-
-Michael Netta, Hudson County Community College
-
-Nick Noble, Miami University
-
-Joe Nowakowski, Muskingum University
-
-Shawn Osell, University of Wisconsin, Superior
-
-Mark Owens, Middle Tennessee State University
-
-Sonia Pereira, Barnard College
-
-Brian Peterson, Central College
-
-Jennifer Platania, Elon University
-
-Robert Rycroft, University of Mary Washington
-
-Adrienne Sachse, Florida State College at Jacksonville
-
-Hans Schumann, Texas A&M University
-
-Gina Shamshak, Goucher College
-
-Chris Warburton, John Jay College of Criminal Justice, CUNY
-
-Mark Witte, Northwestern University
-
-Chiou-nan Yeh, Alabama State University
+<br>Basil Al Hashimi, Mesa Community College
+<br>Jennifer Ball, Washburn University
+<br>Emil Berendt, Mount St. Mary's University
+<br>Zena Buser, Adams State University
+<br>Douglas Campbell, The University of Memphis
+<br>Sanjukta Chaudhuri, University of Wisconsin-Eau Claire
+<br>Xueyu Cheng, Alabama State University
+<br>Robert Cunningham, Alma College
+<br>Rosa Lea Danielson, College of DuPage
+<br>Steven Deloach, Elon University
+<br>Debbie Evercloud, University of Colorado Denver
+<br>Sal Figueras, Hudson County Community College
+<br>Reza Ghorashi, Richard Stockton College of New Jersey
+<br>Robert Gillette, University of Kentucky
+<br>George Jones, University of Wisconsin-Rock County
+<br>Charles Kroncke, College of Mount St. Joseph
+<br>Teresa Laughlin, Palomar Community College
+<br>Carlos Liard-Muriente, Central Connecticut State University
+<br>Heather Luea, Kansas State University
+<br>Charles Meyrick, Housatonic Community College
+<br>William Mosher, Nashua Community College
+<br>Michael Netta, Hudson County Community College
+<br>Nick Noble, Miami University
+<br>Joe Nowakowski, Muskingum University
+<br>Shawn Osell, University of Wisconsin, Superior
+<br>Mark Owens, Middle Tennessee State University
+<br>Sonia Pereira, Barnard College
+<br>Brian Peterson, Central College
+<br>Jennifer Platania, Elon University
+<br>Robert Rycroft, University of Mary Washington
+<br>Adrienne Sachse, Florida State College at Jacksonville
+<br>Hans Schumann, Texas A&M University
+<br>Gina Shamshak, Goucher College
+<br>Chris Warburton, John Jay College of Criminal Justice, CUNY
+<br>Mark Witte, Northwestern University
+<br>Chiou-nan Yeh, Alabama State University
 
 ## 日本語版の翻訳者
 岩月龍平
-
-川崎心
-
-関口翠
-
-高橋絢子
-
-豊倉幹人
-
-長岡佑治
-
-西原実穂
-
-松島耕太
-
-丸山知紗
-
-吉田正恵
+<br>川崎心
+<br>関口翠
+<br>高橋絢子
+<br>豊倉幹人
+<br>長岡佑治
+<br>西原実穂
+<br>松島耕太
+<br>丸山知紗
+<br>吉田正恵
