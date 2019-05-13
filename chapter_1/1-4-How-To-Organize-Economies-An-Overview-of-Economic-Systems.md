@@ -45,76 +45,75 @@
     <p>
         ランク付けは必然的に推計によるものとなりますが、これらの大まかな指標はトレンドを理解するのに役立ちます。2015年に、ランキングに含まれる178つの国のうち101つの国でより経済自由度が増したが、一方で77つの国では経済自由度が減少した。ここ数十年のトレンドとして、世界的に経済自由度が増す傾向にあります。
     </p>
-</div>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;border:none;border-color:#ccc;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-buh4{background-color:#f9f9f9;text-align:left;vertical-align:top}
-.tg .tg-fymr{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-  <tr>
-    <th class="tg-fymr">経済自由度が高い国</th>
-    <th class="tg-1wig">経済自由度が低い国</th>
-  </tr>
-  <tr>
-    <td class="tg-buh4">1. 香港</td>
-    <td class="tg-buh4">167. 東ティモール民主共和国</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">2. シンガポール共和国</td>
-    <td class="tg-0lax">168. コンゴ民主共和国</td>
-  </tr>
-  <tr>
-    <td class="tg-buh4">3. ニュージーランド</td>
-    <td class="tg-buh4">169. アルゼンチン共和国</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">4. スイス連邦</td>
-    <td class="tg-0lax">170. 赤道ギニア共和国</td>
-  </tr>
-  <tr>
-    <td class="tg-buh4">5. オーストラリア連邦</td>
-    <td class="tg-buh4">171. イラン・イスラム共和国</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">6. カナダ</td>
-    <td class="tg-0lax">172. コンゴ共和国</td>
-  </tr>
-  <tr>
-    <td class="tg-buh4">7. チリ共和国</td>
-    <td class="tg-buh4">173. エリトリア国</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">8. アイルランド</td>
-    <td class="tg-0lax">174. トルクメニスタン</td>
-  </tr>
-  <tr>
-    <td class="tg-buh4">9. エストニア共和国</td>
-    <td class="tg-buh4">175. ジンバブエ共和国</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">10. 英国</td>
-    <td class="tg-0lax">176. ベネズエラ</td>
-  </tr>
-  <tr>
-    <td class="tg-buh4">11. アメリカ合衆国</td>
-    <td class="tg-buh4">177. キューバ共和国</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">12. デンマーク王国</td>
-    <td class="tg-0lax">178. 北朝鮮</td>
-  </tr>
-</table>
-
-<div class="table_text">
-    <p>
-        <span class="table_title">表 1.1 2016年の経済自由度</span> (出典: The Heritage Foundation, 2016 Index of Economic Freedom, Country Rankings, <a href="http://www.heritage.org/index/ranking">http://www.heritage.org/index/ranking</a>)
-    </p>
+    <style type="text/css">
+        .tg  {border-collapse:collapse;border-spacing:0;border:none;border-color:#ccc;}
+        .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
+        .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
+        .tg .tg-buh4{background-color:#f9f9f9;text-align:left;vertical-align:top}
+        .tg .tg-mrzz{background-color:#f9f9f9;text-align:left}
+        .tg .tg-5ua9{font-weight:bold;text-align:left}
+        .tg .tg-s268{text-align:left}
+        .tg .tg-0lax{text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+        <tr>
+            <th class="tg-5ua9">経済自由度が高い国</th>
+            <th class="tg-5ua9">経済自由度が低い国</th>
+        </tr>
+        <tr>
+            <td class="tg-mrzz">1. 香港</td>
+            <td class="tg-mrzz">167. 東ティモール民主共和国</td>
+        </tr>
+        <tr>
+            <td class="tg-s268">2. シンガポール共和国</td>
+            <td class="tg-s268">168. コンゴ民主共和国</td>
+        </tr>
+        <tr>
+            <td class="tg-buh4">3. ニュージーランド</td>
+            <td class="tg-buh4">169. アルゼンチン共和国</td>
+        </tr>
+        <tr>
+            <td class="tg-0lax">4. スイス連邦</td>
+            <td class="tg-0lax">170. 赤道ギニア共和国</td>
+        </tr>
+        <tr>
+            <td class="tg-buh4">5. オーストラリア連邦</td>
+            <td class="tg-buh4">171. イラン・イスラム共和国</td>
+        </tr>
+        <tr>
+            <td class="tg-0lax">6. カナダ</td>
+            <td class="tg-0lax">172. コンゴ共和国</td>
+        </tr>
+        <tr>
+            <td class="tg-buh4">7. チリ共和国</td>
+            <td class="tg-buh4">173. エリトリア国</td>
+        </tr>
+        <tr>
+            <td class="tg-0lax">8. アイルランド</td>
+            <td class="tg-0lax">174. トルクメニスタン</td>
+        </tr>
+        <tr>
+            <td class="tg-buh4">9. エストニア共和国</td>
+            <td class="tg-buh4">175. ジンバブエ共和国</td>
+        </tr>
+        <tr>
+            <td class="tg-0lax">10. 英国</td>
+            <td class="tg-0lax">176. ベネズエラ</td>
+        </tr>
+        <tr>
+            <td class="tg-buh4">11. アメリカ合衆国</td>
+            <td class="tg-buh4">177. キューバ共和国</td>
+        </tr>
+        <tr>
+            <td class="tg-0lax">12. デンマーク王国</td>
+            <td class="tg-0lax">178. 北朝鮮</td>
+        </tr>
+    </table>
+    <div class="table_text">
+        <p>
+            <span class="table_title">表 1.1 2016年の経済自由度</span> (出典: The Heritage Foundation, 2016 Index of Economic Freedom, Country Rankings, <a href="http://www.heritage.org/index/ranking">http://www.heritage.org/index/ranking</a>)
+        </p>
+    </div>
 </div>
 
 ### 規制：ゲームのルール
@@ -317,6 +316,7 @@
     <p>
         明日着る服から、交通事故の報道のために何人現場に向かわせるかということまで、情報は判断することの手助けとなります。これら一つ一つは経済的な判断です。結局のところ資源は希少です。もしメディアが交通事故の報道のために10人派遣してしまったら、他のニュースを報道したり他の仕事を終わらせることができなくなります。情報は、希少な資源をいかに活用するかの最善の判断をするための知識を提供してくれます。経済学の世界へようこそ！
     </p>
+</div>
 
 <div class="critical_thinking_questions">
     <h2>
@@ -377,3 +377,5 @@
         <br>政府の規制を犯す形で買い手と売り手が取引を行う市場
     </p>
 </div>
+
+[第1章について >>](Reference)

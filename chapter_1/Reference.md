@@ -18,12 +18,21 @@ The World Bank Group. 2015. "World Data Bank." Accessed March 30, 2014. http://d
 
 ### 翻訳者
 岩月龍平
+
 川崎心
+
 関口翠
+
 高橋絢子
+
 豊倉幹人
+
 長岡佑治
+
 西原実穂
+
 松島耕太
+
 丸山知紗
+
 吉田正恵
