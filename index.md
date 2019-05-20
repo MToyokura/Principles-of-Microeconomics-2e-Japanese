@@ -9,3 +9,6 @@
 * [1.3 経済学者がどのように仮説やモデルを使って経済学的な課題を理解するのか](chapter_1/1-3-How-Economists-Use-Theories-and-Models-to-Understand-Economic-Issues)
 * [1.4 経済はどのように整理できるか：経済システムの概要](chapter_1/1-4-How-To-Organize-Economies-An-Overview-of-Economic-Systems)
 * [第1章について](chapter_1/Reference)
+
+[第2章 希少性の世界での選択](chapter_2/Introduction)
+* [はじめに](chapter_2/Introduction)
