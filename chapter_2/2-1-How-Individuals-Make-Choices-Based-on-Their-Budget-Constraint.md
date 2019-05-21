@@ -50,7 +50,7 @@
     </p>
     <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
     <p>
-        $$ 予算 = P_{1} \times Q_{1} \times P_{2} \times Q_{2} $$
+        $$ 予算 = P_{1} \times Q_{1} + P_{2} \times Q_{2} $$
     </p>
     <p>
         ここでは、 \(P\) は財の価格、 \(Q\) は財の量を表し、 \(予算\) は支払われる収入を表します。
@@ -59,9 +59,10 @@
         ステップ2：予算制約式をシナリオに当てはめます。アルフォンソさんの場合どのように働くのかを以下でみてみます。
     </p>
     <p>
-        $$ 予算 = P_{1} \times Q_{1} \times P_{2} \times Q_{2} $$
-        $$ 予算10ドル = ハンバーガー1個当たり2ドル \times ハンバーガーの数 + バスのチケット1枚当たり50セント \times バスのチケットの数 $$
-        $$ 10ドル = 2ドル \times Q_{ハンバーガーの数} + 50セント \times Q_{バスのチケットの数} $$
+        $$ 予算 = P_{1} \times Q_{1} + P_{2} \times Q_{2} $$
+        $$ \begin{align} 予算\$10 = & ハンバーガー1個当たり\$2 \times ハンバーガーの個数 \\ 
+                                    & + バスのチケット1枚当たり\$0.50 \times バスのチケットの枚数 \end{align} $$
+        $$ \$10 = \$2 \times Q_{ハンバーガーの個数} + \$0.50 \times Q_{バスのチケットの枚数} $$
     </p>
     <p>
         ステップ3：ほんの少し代数を用いることで、この式を1次式に変換できます。
@@ -69,10 +70,100 @@
     <p>
         $$ y = b + mx $$
     </p>
+    <p>
+        アルフォンソさんの場合は、以下のように式を変形していきます；
+    </p>
+    <p>
+        $$ \$10 = \$2 \times Q_{ハンバーガーの個数} + \$0.50 \times Q_{バスのチケットの枚数} $$
+    </p>
+    <p>
+        ステップ4：式を単純化します。まずは式の両辺に2をかけましょう。
+    </p>
+    <p>
+        $$ \begin{align} 2 \times & 10 = 2 \times 2 \times Q_{ハンバーガーの個数} + 2 \times 0.5 \times Q_{バスのチケットの枚数} \\ & 20 = 4 \times Q_{ハンバーガーの個数} +1 \times Q_{バスのチケットの枚数} \end{align} $$
+    </p>
+    <p>
+        ステップ5：両辺から\( 1 \times Q_{バスのチケットの枚数} \)を引きましょう。
+    </p>
+    <p>
+        $$ 20 – Q_{バスのチケットの枚数} = 4 \times Q_{ハンバーガーの個数} $$
+    </p>
+    <p>
+        両辺を4で割ります。
+    </p>
+    <p>
+        $$ \begin{align} 5 - 0.25 \times Q_{バスのチケットの枚数} & = Q_{ハンバーガーの個数} \\
+        & or \\
+         Q_{ハンバーガーの個数} & = 5 - 0.25 \times Q_{バスのチケットの枚数} \end{align} $$
+    </p>
+    <p>
+        ステップ6：この式は図2.2における予算制約線と一致します。式で表されている通り、切片が5で傾きが-0.25です。\( Q_{バスのチケットの枚数} \)に20枚という数字を代入すると、ハンバーガーが0個得られると分かります。\( Q_{バスのチケットの枚数} \)に別の数字を代入すると、別の結果が得られます。表2.1は予算制約線上にとれる点を表しています。
+    </p>
+    <style type="text/css">
+        .tg  {border-collapse:collapse;border-spacing:0;border:none;border-color:#ccc;}
+        .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
+        .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
+        .tg .tg-buh4{background-color:#f9f9f9;text-align:left;vertical-align:top}
+        .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+        .tg .tg-0lax{text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <tr>
+        <th class="tg-0pky">点</th>
+        <th class="tg-0lax">ハンバーガーの個数(1個$2)</th>
+        <th class="tg-0lax">バスのチケットの枚数(1枚50セント)</th>
+    </tr>
+    <tr>
+        <td class="tg-buh4">A</td>
+        <td class="tg-buh4">5</td>
+        <td class="tg-buh4">0</td>
+    </tr>
+    <tr>
+        <td class="tg-0lax">B</td>
+        <td class="tg-0lax">4</td>
+        <td class="tg-0lax">4</td>
+    </tr>
+    <tr>
+        <td class="tg-buh4">C</td>
+        <td class="tg-buh4">3</td>
+        <td class="tg-buh4">8</td>
+    </tr>
+    <tr>
+        <td class="tg-0lax">D</td>
+        <td class="tg-0lax">2</td>
+        <td class="tg-0lax">12</td>
+    </tr>
+    <tr>
+        <td class="tg-buh4">E</td>
+        <td class="tg-buh4">1</td>
+        <td class="tg-buh4">16</td>
+    </tr>
+    <tr>
+        <td class="tg-0lax">F</td>
+        <td class="tg-0lax">0</td>
+        <td class="tg-0lax">20</td>
+    </tr>
+    </table>
+    <div class="table_text">
+        <p>
+            <span class="table_title">表 2.1 </span>
+        </p>
+    </div>
+    <p>
+        ステップ7. 予算制約の傾きは常に、横軸にある財の機会費用を表しています。アルフォンゾにとって傾きは-0.25で、バスのチケットを買うたびにハンバーガーの1/4をあきらめなければならないことを意味しています。言い換えれば、チケットを４つ買うたびにアルフォンゾは一つのハンバーガーをあきらめる必要があります。
+    </p>
+    <p>
+        ここには二つの大事なポイントがあります。まず一つ目に、傾きの符号はマイナスの値となっています。これは、片方の財を手に入れるためにはもう片方の財のいくらかをあきらめる必要があるということです。二つ目のポイントとして、傾きを、バスのチケットの価格(グラフの横軸にある財)をハンバーガーの価格(グラフの縦軸にある財)で割った値として定義します。この場合は$0.50/$2 = 0.25 です。それら2つの価格を割ることで機会費用を素早く導くことができます。
+    </p>
 </div>
 
+### 機会費用を明らかにする
 
+機会費用を価格として考えることが合理的である場合も多いです。ある人が新しい自転車を300ドルで買ったとすると、その300ドルは犠牲となった「他方の消費」の価格と釣り合います。実生活においては特定の代替物を考える必要はないかもしれません。また、機会費用を正確に把握したい場合、価格による指標は正確ではない場合があります。この問題は時間というコストが含まれる場合特に顕著に現れます。
 
+例えば、ある上司が「チーム意識を育む」という目的のために従業員全員に2日間の休養を設けたとします。目に見える費用としては、休養を実現するため外部のコンサルティング会社への相談のための費用や、参加者全員のための部屋代や食事代があります。しかしここにさらに「休養の二日間は従業員は仕事をしない」という機会費用も存在しています。
+
+大学に通うことも、機会費用が目に見える費用よりも高くなる例の一つです。大学に通うことにより発生する金銭的な費用として授業料、教科書代、参考書代、家賃、食費などがあります。これに加え、授業に出席している時間や勉強している時間は仕事をすることはできません。このため、大学に通うということは目に見える費用と、稼ぐことができた収入という機会費用が生じます。
 
 <div class="critical_thinking_questions">
     <h2>
