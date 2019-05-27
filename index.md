@@ -12,3 +12,5 @@
 
 [第2章 希少性の世界での選択](chapter_2/Introduction)
 * [はじめに](chapter_2/Introduction)
+* [予算制約に基づく個々人の判断](chapter_2/2-1-How-Individuals-Make-Choices-Based-on-Their-Budget-Constraint)
+* [生産可能性フロンティアと社会の選択 >>](chapter_2/2-2-The-Production-Possibilities-Frontier-and-Social-Choices)

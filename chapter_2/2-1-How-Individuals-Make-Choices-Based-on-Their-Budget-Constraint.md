@@ -244,4 +244,4 @@
     </p>
 </div>
 
-[2.2 経済はどのように整理できるか：経済システムの概要 >>](1-4-How-To-Organize-Economies-An-Overview-of-Economic-Systems)
+[2.2 生産可能性フロンティアと社会の選択 >>](2-2-The-Production-Possibilities-Frontier-and-Social-Choices)
