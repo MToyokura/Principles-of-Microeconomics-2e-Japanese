@@ -1,6 +1,6 @@
 ## 第1章について
 
-### 参考文献
+### 参考資料
 
 Bureau of Labor Statistics, U.S. Department of Labor. 2015. "The Employment Situation—February 2015." Accessed March 27, 2015. http://www.bls.gov/news.release/pdf/empsit.pdf.
 
@@ -27,3 +27,5 @@ The World Bank Group. 2015. "World Data Bank." Accessed March 30, 2014. http://d
 <br>松島耕太
 <br>丸山知紗
 <br>吉田正恵
+
+[第2章 はじめに >>](../chapter_2/introduction)
