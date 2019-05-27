@@ -28,4 +28,4 @@ The World Bank Group. 2015. "World Data Bank." Accessed March 30, 2014. http://d
 <br>丸山知紗
 <br>吉田正恵
 
-[第2章 はじめに >>](../chapter_2/introduction)
+[第2章 はじめに >>](../chapter_2/Introduction)
