@@ -65,4 +65,4 @@
     </p>    
 </div>
 
-[2.3 >>]()
+[2.3 経済学的アプローチに対する批判を乗り越える >>](2-3-Confronting-Objections-to-the-Economic-Approach)
