@@ -20,5 +20,3 @@
 [第3章 希少性の世界での選択](chapter_3/Introduction)
 * [はじめに](chapter_3/Introduction)
 * [3.1 需要、供給、財とサービスの市場における均衡 >>](chapter_3/3-1-Demand-Supply-and-Equilibrium-in-Markets-for-Goods-and-Services)
-<!-- * [2.3 経済学的アプローチに対する批判を乗り越える](chapter_2/2-3-Confronting-Objections-to-the-Economic-Approach)
-* [第2章について](chapter_2/Reference) -->
