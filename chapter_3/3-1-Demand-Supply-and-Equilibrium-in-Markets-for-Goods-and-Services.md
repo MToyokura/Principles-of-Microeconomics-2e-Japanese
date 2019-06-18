@@ -1,4 +1,4 @@
-## 2.2 生産可能性フロンティアと社会の選択
+## 3.1 需要、供給、財とサービスの市場における均衡
 
 この節の最後には、以下のことができるようになります。
 
@@ -99,7 +99,7 @@
 <table>
   <tr>
     <th>価格 (ガロン当たり)</th>
-    <th>需要量 (100万ガロン)</th>
+    <th>供給量 (100万ガロン)</th>
   </tr>
   <tr>
     <td>$1.00</td>
@@ -153,9 +153,9 @@
 
 <table>
   <tr>
-    <th>Price (per gallon)</th>
-    <th>Quantity demanded (millions of gallons)</th>
-    <th>Quantity supplied (millions of gallons)</th>
+    <th>価格 (ガロン当たり)</th>
+    <th>需要量 (100万ガロン)</th>
+    <th>供給量 (100万ガロン)</th>
   </tr>
   <tr>
     <td>$1.00</td>
@@ -230,5 +230,4 @@
     </ol>
 </div>
 
-
-[2.3 経済学的アプローチに対する批判を乗り越える >>](2-3-Confronting-Objections-to-the-Economic-Approach)
+[3.2 財・サービス市場における需要と供給のシフト >>](3-2-Shifts-in-Demand-and-Supply-for-Goods-and-Services)
