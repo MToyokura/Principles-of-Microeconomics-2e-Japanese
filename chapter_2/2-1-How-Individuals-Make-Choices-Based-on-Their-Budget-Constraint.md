@@ -208,8 +208,8 @@
     </h2>
     <table>
   <tr>
-    <th>予算制約</th>
-    <th>budget constraint</th>
+    <td>予算制約</td>
+    <td>budget constraint</td>
   </tr>
   <tr>
     <td>機会費用</td>

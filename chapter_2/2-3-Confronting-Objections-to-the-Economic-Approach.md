@@ -98,8 +98,8 @@
     </h2>
     <table>
   <tr>
-    <th>実証的主張</th>
-    <th>positive statements</th>
+    <td>実証的主張</td>
+    <td>positive statements</td>
   </tr>
   <tr>
     <td>規範的主張</td>

@@ -64,8 +64,8 @@ John Maynard Keynes (1883–1946)は20世紀の最も偉大な経済学者の一
     </h2>
 <table>
   <tr>
-    <th>理論</th>
-    <th>theory</th>
+    <td>理論</td>
+    <td>theory</td>
   </tr>
   <tr>
     <td>モデル</td>

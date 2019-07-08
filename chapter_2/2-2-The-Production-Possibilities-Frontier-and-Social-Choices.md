@@ -112,8 +112,8 @@ PPFの傾きは小麦の生産量を増やした場合の機会費用を示し�
     </h2>
     <table>
   <tr>
-    <th>生産可能性フロンティア</th>
-    <th>production possibilities frontier (PPF)</th>
+    <td>生産可能性フロンティア</td>
+    <td>production possibilities frontier (PPF)</td>
   </tr>
   <tr>
     <td>傾き</td>

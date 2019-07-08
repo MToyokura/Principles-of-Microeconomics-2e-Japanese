@@ -317,8 +317,8 @@
     </h2>
     <table>
       <tr>
-        <th>ceteris paribus</th>
-        <th>ceteris paribus</th>
+        <td>ceteris paribus</td>
+        <td>ceteris paribus</td>
       </tr>
       <tr>
         <td>正常財、普通財</td>

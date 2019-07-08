@@ -46,8 +46,8 @@
     </h2>
     <table>
   <tr>
-    <th>ミクロ経済学</th>
-    <th>microeconomics</th>
+    <td>ミクロ経済学</td>
+    <td>microeconomics</td>
   </tr>
   <tr>
     <td>マクロ経済学</td>

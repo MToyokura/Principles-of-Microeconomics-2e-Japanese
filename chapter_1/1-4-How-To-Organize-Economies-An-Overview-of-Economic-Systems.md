@@ -294,8 +294,8 @@
     </h2>
     <table>
   <tr>
-    <th>伝統経済</th>
-    <th>traditional economy</th>
+    <td>伝統経済</td>
+    <td>traditional economy</td>
   </tr>
   <tr>
     <td>計画経済</td>

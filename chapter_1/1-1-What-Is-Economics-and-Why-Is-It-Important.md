@@ -111,8 +111,8 @@ Smithは、分業の例として、1つのピンを作るのにいったいど�
     </h2>
     <table>
   <tr>
-    <th>経済学</th>
-    <th>economics</th>
+    <td>経済学</td>
+    <td>economics</td>
   </tr>
   <tr>
     <td>希少性</td>

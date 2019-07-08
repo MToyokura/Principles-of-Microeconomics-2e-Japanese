@@ -221,8 +221,8 @@
   </h2>
   <table>
     <tr>
-      <th>需要</th>
-      <th>demand</th>
+      <td>需要</td>
+      <td>demand</td>
     </tr>
     <tr>
       <td>価格</td>
