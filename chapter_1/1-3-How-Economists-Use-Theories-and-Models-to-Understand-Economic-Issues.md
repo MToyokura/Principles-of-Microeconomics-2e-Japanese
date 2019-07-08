@@ -60,24 +60,30 @@ John Maynard Keynes (1883–1946)は20世紀の最も偉大な経済学者の一
 
 <div class="glossary">
     <h2>
-        用語
+        対訳表
     </h2>
-    <p>
-        <strong>財・サービス市場</strong>
-        <br>企業が生産したものを販売し、世帯が購入を行う市場
-    </p>
-    <p>
-        <strong>労働市場</strong>
-        <br>世帯が企業やその他雇用者に対して自らを労働力として販売する市場
-    </p>
-    <p>
-        <strong>モデル</strong>
-        <br>理論を参照のこと
-    </p>
-    <p>
-        <strong>理論</strong>
-        <br>あるモノや状況を理解するのに十分な主要な特徴を捉えつつ、単純化された、モノや状況を表すもの
-    </p>
+<table>
+  <tr>
+    <th>理論</th>
+    <th>theory</th>
+  </tr>
+  <tr>
+    <td>モデル</td>
+    <td>model</td>
+  </tr>
+  <tr>
+    <td>フロー循環図</td>
+    <td>circular flow diagram</td>
+  </tr>
+  <tr>
+    <td>財・サービス市場</td>
+    <td>goods and services market</td>
+  </tr>
+  <tr>
+    <td>労働市場</td>
+    <td>labor market</td>
+  </tr>
+</table>
 </div>
 
 [1.4 経済はどのように整理できるか：経済システムの概要 >>](1-4-How-To-Organize-Economies-An-Overview-of-Economic-Systems)

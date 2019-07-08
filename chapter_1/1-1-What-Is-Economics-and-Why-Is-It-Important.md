@@ -107,27 +107,30 @@ Smithは、分業の例として、1つのピンを作るのにいったいど�
 
 <div class="glossary">
     <h2>
-        用語
+        対訳表
     </h2>
-    <p>
-        <strong>分業</strong>
-        <br>財やサービスを生産する際に労働者が仕事の工程を分担すること
-    </p>
-    <p><strong>経済学</strong>
-        <br>希少性の元人々がどのような選択を行うかを研究する学問
-    </p>
-    <p>
-        <strong>規模の経済</strong>
-        <br>生産される量が増えるほど一つ一つの製造にかかる費用が減少すること
-    </p>
-    <p>
-        <strong>希少性</strong>
-        <br>供給量以上に人々が財やサービスを求めること
-    </p>
-    <p>
-        <strong>特化</strong>
-        <br>生産のプロセス全体の中で、労働者や企業がそれぞれが得意な分野に集中すること
-    </p>
+    <table>
+  <tr>
+    <th>経済学</th>
+    <th>economics</th>
+  </tr>
+  <tr>
+    <td>希少性</td>
+    <td>scarcity</td>
+  </tr>
+  <tr>
+    <td>分業</td>
+    <td>division</td>
+  </tr>
+  <tr>
+    <td>特価</td>
+    <td>specialization</td>
+  </tr>
+  <tr>
+    <td>規模の経済</td>
+    <td>economies of scale</td>
+  </tr>
+</table>
 </div>
 
 [1.2 ミクロ経済学とマクロ経済学 >>](1-2-Microeconomics-and-Macroeconomics)

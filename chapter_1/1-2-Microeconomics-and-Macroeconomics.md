@@ -42,23 +42,26 @@
 
 <div class="glossary">
     <h2>
-        用語
+        対訳表
     </h2>
-    <p>
-        <strong>財政政策</strong>
-        <br>政府の予算や税に関する経済的な政策
-    </p>
-    <p><strong>マクロ経済学</strong>
-        <br>成長、失業、インフレーション、貿易収支といった幅広い事柄について焦点を当てる経済学の分野
-    </p>
-    <p>
-        <strong>ミクロ経済学</strong>
-        <br>経済の中の世帯、労働者、企業といった特定の主体の行動に焦点を当てる経済学の分野
-    </p>
-    <p>
-        <strong>金融政策</strong>
-        <br>利率、利用可能な借入枠などに関する政策
-    </p>
+    <table>
+  <tr>
+    <th>ミクロ経済学</th>
+    <th>microeconomics</th>
+  </tr>
+  <tr>
+    <td>マクロ経済学</td>
+    <td>macroeconomics</td>
+  </tr>
+  <tr>
+    <td>金融政策</td>
+    <td>monetary policy</td>
+  </tr>
+  <tr>
+    <td>財政政策</td>
+    <td>fiscal policy</td>
+  </tr>
+</table>
 </div>
 
 [1.3 経済学者がどのように仮説やモデルを使って経済学的な課題を理解するのか >>](1-3-How-Economists-Use-Theories-and-Models-to-Understand-Economic-Issues)

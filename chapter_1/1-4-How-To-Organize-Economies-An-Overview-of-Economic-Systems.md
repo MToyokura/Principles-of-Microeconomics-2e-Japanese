@@ -45,76 +45,60 @@
     <p>
         ランク付けは必然的に推計によるものとなりますが、これらの大まかな指標はトレンドを理解するのに役立ちます。2015年に、ランキングに含まれる178つの国のうち101つの国でより経済自由度が増したが、一方で77つの国では経済自由度が減少した。ここ数十年のトレンドとして、世界的に経済自由度が増す傾向にあります。
     </p>
-    <style type="text/css">
-        .tg  {border-collapse:collapse;border-spacing:0;border:none;border-color:#ccc;}
-        .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
-        .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
-        .tg .tg-buh4{background-color:#f9f9f9;text-align:left;vertical-align:top}
-        .tg .tg-mrzz{background-color:#f9f9f9;text-align:left}
-        .tg .tg-5ua9{font-weight:bold;text-align:left}
-        .tg .tg-s268{text-align:left}
-        .tg .tg-0lax{text-align:left;vertical-align:top}
-    </style>
-    <table class="tg">
-        <tr>
-            <th class="tg-5ua9">経済自由度が高い国</th>
-            <th class="tg-5ua9">経済自由度が低い国</th>
-        </tr>
-        <tr>
-            <td class="tg-mrzz">1. 香港</td>
-            <td class="tg-mrzz">167. 東ティモール民主共和国</td>
-        </tr>
-        <tr>
-            <td class="tg-s268">2. シンガポール共和国</td>
-            <td class="tg-s268">168. コンゴ民主共和国</td>
-        </tr>
-        <tr>
-            <td class="tg-buh4">3. ニュージーランド</td>
-            <td class="tg-buh4">169. アルゼンチン共和国</td>
-        </tr>
-        <tr>
-            <td class="tg-0lax">4. スイス連邦</td>
-            <td class="tg-0lax">170. 赤道ギニア共和国</td>
-        </tr>
-        <tr>
-            <td class="tg-buh4">5. オーストラリア連邦</td>
-            <td class="tg-buh4">171. イラン・イスラム共和国</td>
-        </tr>
-        <tr>
-            <td class="tg-0lax">6. カナダ</td>
-            <td class="tg-0lax">172. コンゴ共和国</td>
-        </tr>
-        <tr>
-            <td class="tg-buh4">7. チリ共和国</td>
-            <td class="tg-buh4">173. エリトリア国</td>
-        </tr>
-        <tr>
-            <td class="tg-0lax">8. アイルランド</td>
-            <td class="tg-0lax">174. トルクメニスタン</td>
-        </tr>
-        <tr>
-            <td class="tg-buh4">9. エストニア共和国</td>
-            <td class="tg-buh4">175. ジンバブエ共和国</td>
-        </tr>
-        <tr>
-            <td class="tg-0lax">10. 英国</td>
-            <td class="tg-0lax">176. ベネズエラ</td>
-        </tr>
-        <tr>
-            <td class="tg-buh4">11. アメリカ合衆国</td>
-            <td class="tg-buh4">177. キューバ共和国</td>
-        </tr>
-        <tr>
-            <td class="tg-0lax">12. デンマーク王国</td>
-            <td class="tg-0lax">178. 北朝鮮</td>
-        </tr>
-    </table>
-    <div class="table_text">
-        <p>
-            <span class="table_title">表 1.1 2016年の経済自由度</span> (出典: The Heritage Foundation, 2016 Index of Economic Freedom, Country Rankings, <a href="http://www.heritage.org/index/ranking">http://www.heritage.org/index/ranking</a>)
-        </p>
-    </div>
-</div>
+    <table>
+  <tr>
+    <th>経済自由度が高い国</th>
+    <th>経済自由度が低い国</th>
+  </tr>
+  <tr>
+    <td>1. 香港</td>
+    <td>167. 東ティモール民主共和国</td>
+  </tr>
+  <tr>
+    <td>2. シンガポール共和国</td>
+    <td>168. コンゴ民主共和国</td>
+  </tr>
+  <tr>
+    <td>3. ニュージーランド</td>
+    <td>169. アルゼンチン共和国</td>
+  </tr>
+  <tr>
+    <td>4. スイス連邦</td>
+    <td>170. 赤道ギニア共和国</td>
+  </tr>
+  <tr>
+    <td>5. オーストラリア連邦</td>
+    <td>171. イラン・イスラム共和国</td>
+  </tr>
+  <tr>
+    <td>6. カナダ</td>
+    <td>172. コンゴ共和国</td>
+  </tr>
+  <tr>
+    <td>7. チリ共和国</td>
+    <td>173. エリトリア国</td>
+  </tr>
+  <tr>
+    <td>8. アイルランド</td>
+    <td>174. トルクメニスタン</td>
+  </tr>
+  <tr>
+    <td>9. エストニア共和国</td>
+    <td>175. ジンバブエ共和国</td>
+  </tr>
+  <tr>
+    <td>10. 英国</td>
+    <td>176. ベネズエラ</td>
+  </tr>
+  <tr>
+    <td>11. アメリカ合衆国</td>
+    <td>177. キューバ共和国</td>
+  </tr>
+  <tr>
+    <td>12. デンマーク王国</td>
+    <td>178. 北朝鮮</td>
+  </tr>
+</table>
 
 ### 規制：ゲームのルール
 
@@ -137,153 +121,123 @@
 
 表1.2はグローバリゼーションの一つの尺度を紹介しています。この表は世界銀行の統計による、いくつかの国の2010年から2015年までの国内総生産における輸出のパーセンテージを示しています。**輸出**は国内で生産された財・サービスが海外で販売されることを指し、**輸入**は海外で生産された財・サービスが国内で販売されることを指します。**国内総生産(GDP)**は経済における(国内の)総生産の規模を測ります。すなわち、輸出をGDPで割った割合は、ある国の経済的総生産のうちどれほどが他国で販売されたかを測るものなのです。
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;border:none;border-color:#ccc;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-buh4{background-color:#f9f9f9;text-align:left;vertical-align:top}
-.tg .tg-5ua9{font-weight:bold;text-align:left}
-.tg .tg-56cw{background-color:#f9f9f9;font-weight:bold;text-align:left}
-.tg .tg-797t{background-color:#f9f9f9;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-s268{text-align:left}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+<table>
   <tr>
-    <th class="tg-5ua9">国</th>
-    <th class="tg-5ua9">2010</th>
-    <th class="tg-1wig">2011</th>
-    <th class="tg-1wig">2012</th>
-    <th class="tg-1wig">2013</th>
-    <th class="tg-1wig">2014</th>
-    <th class="tg-1wig">2015</th>
+    <th>国</th>
+    <th>2010</th>
+    <th>2011</th>
+    <th>2012</th>
+    <th>2013</th>
+    <th>2014</th>
+    <th>2015</th>
   </tr>
   <tr>
-    <td class="tg-56cw">高所得国</td>
-    <td class="tg-56cw"></td>
-    <td class="tg-797t"></td>
-    <td class="tg-797t"></td>
-    <td class="tg-797t"></td>
-    <td class="tg-797t"></td>
-    <td class="tg-797t"></td>
+    <td colspan="7">高所得国</td>
   </tr>
   <tr>
-    <td class="tg-s268">アメリカ合衆国</td>
-    <td class="tg-s268">12.4</td>
-    <td class="tg-0lax">13.6</td>
-    <td class="tg-0lax">13.6</td>
-    <td class="tg-0lax">13.5</td>
-    <td class="tg-0lax">13.5</td>
-    <td class="tg-0lax">12.6</td>
+    <td>アメリカ合衆国</td>
+    <td>12.4</td>
+    <td>13.6</td>
+    <td>13.6</td>
+    <td>13.5</td>
+    <td>13.5</td>
+    <td>12.6</td>
   </tr>
   <tr>
-    <td class="tg-buh4">ベルギー王国</td>
-    <td class="tg-buh4">76.2</td>
-    <td class="tg-buh4">81.4</td>
-    <td class="tg-buh4">82.2</td>
-    <td class="tg-buh4">82.8</td>
-    <td class="tg-buh4">84.0</td>
-    <td class="tg-buh4">84.4</td>
+    <td>ベルギー王国</td>
+    <td>76.2</td>
+    <td>81.4</td>
+    <td>82.2</td>
+    <td>82.8</td>
+    <td>84.0</td>
+    <td>84.4</td>
   </tr>
   <tr>
-    <td class="tg-0lax">カナダ</td>
-    <td class="tg-0lax">29.1</td>
-    <td class="tg-0lax">30.7</td>
-    <td class="tg-0lax">30.0</td>
-    <td class="tg-0lax">30.1</td>
-    <td class="tg-0lax">31.7</td>
-    <td class="tg-0lax">31.5</td>
+    <td>カナダ</td>
+    <td>29.1</td>
+    <td>30.7</td>
+    <td>30.0</td>
+    <td>30.1</td>
+    <td>31.7</td>
+    <td>31.5</td>
   </tr>
   <tr>
-    <td class="tg-buh4">フランス共和国</td>
-    <td class="tg-buh4">26.0</td>
-    <td class="tg-buh4">27.8</td>
-    <td class="tg-buh4">28.1</td>
-    <td class="tg-buh4">28.3</td>
-    <td class="tg-buh4">29.0</td>
-    <td class="tg-buh4">30.0</td>
+    <td>フランス共和国</td>
+    <td>26.0</td>
+    <td>27.8</td>
+    <td>28.1</td>
+    <td>28.3</td>
+    <td>29.0</td>
+    <td>30.0</td>
   </tr>
   <tr>
-    <td class="tg-1wig">中所得国</td>
-    <td class="tg-1wig"></td>
-    <td class="tg-1wig"></td>
-    <td class="tg-1wig"></td>
-    <td class="tg-1wig"></td>
-    <td class="tg-1wig"></td>
-    <td class="tg-1wig"></td>
+    <td colspan="7">中所得国</td>
   </tr>
   <tr>
-    <td class="tg-buh4">ブラジル連邦共和国</td>
-    <td class="tg-buh4">10.9</td>
-    <td class="tg-buh4">11.9</td>
-    <td class="tg-buh4">12.6</td>
-    <td class="tg-buh4">12.6</td>
-    <td class="tg-buh4">11.2</td>
-    <td class="tg-buh4">13.0</td>
+    <td>ブラジル連邦共和国</td>
+    <td>10.9</td>
+    <td>11.9</td>
+    <td>12.6</td>
+    <td>12.6</td>
+    <td>11.2</td>
+    <td>13.0</td>
   </tr>
   <tr>
-    <td class="tg-0lax">メキシコ合衆国</td>
-    <td class="tg-0lax">29.9</td>
-    <td class="tg-0lax">31.2</td>
-    <td class="tg-0lax">32.6</td>
-    <td class="tg-0lax">31.7</td>
-    <td class="tg-0lax">32.3</td>
-    <td class="tg-0lax">35.3</td>
+    <td>メキシコ合衆国</td>
+    <td>29.9</td>
+    <td>31.2</td>
+    <td>32.6</td>
+    <td>31.7</td>
+    <td>32.3</td>
+    <td>35.3</td>
   </tr>
   <tr>
-    <td class="tg-buh4">大韓民国</td>
-    <td class="tg-buh4">49.4</td>
-    <td class="tg-buh4">55.7</td>
-    <td class="tg-buh4">56.3</td>
-    <td class="tg-buh4">53.9</td>
-    <td class="tg-buh4">50.3</td>
-    <td class="tg-buh4">45.9</td>
+    <td>大韓民国</td>
+    <td>49.4</td>
+    <td>55.7</td>
+    <td>56.3</td>
+    <td>53.9</td>
+    <td>50.3</td>
+    <td>45.9</td>
   </tr>
   <tr>
-    <td class="tg-1wig">低所得国</td>
-    <td class="tg-1wig"></td>
-    <td class="tg-1wig"></td>
-    <td class="tg-1wig"></td>
-    <td class="tg-1wig"></td>
-    <td class="tg-1wig"></td>
-    <td class="tg-1wig"></td>
+    <td colspan="7">低所得国</td>
   </tr>
   <tr>
-    <td class="tg-buh4">チャド共和国</td>
-    <td class="tg-buh4">36.8</td>
-    <td class="tg-buh4">38.9</td>
-    <td class="tg-buh4">36.9</td>
-    <td class="tg-buh4">32.2</td>
-    <td class="tg-buh4">34.2</td>
-    <td class="tg-buh4">29.8</td>
+    <td>チャド共和国</td>
+    <td>36.8</td>
+    <td>38.9</td>
+    <td>36.9</td>
+    <td>32.2</td>
+    <td>34.2</td>
+    <td>29.8</td>
   </tr>
   <tr>
-    <td class="tg-0lax">中華人民共和国</td>
-    <td class="tg-0lax">29.4</td>
-    <td class="tg-0lax">28.5</td>
-    <td class="tg-0lax">27.3</td>
-    <td class="tg-0lax">26.4</td>
-    <td class="tg-0lax">23.9</td>
-    <td class="tg-0lax">22.4</td>
+    <td>中華人民共和国</td>
+    <td>29.4</td>
+    <td>28.5</td>
+    <td>27.3</td>
+    <td>26.4</td>
+    <td>23.9</td>
+    <td>22.4</td>
   </tr>
   <tr>
-    <td class="tg-buh4">インド</td>
-    <td class="tg-buh4">22.0</td>
-    <td class="tg-buh4">23.9</td>
-    <td class="tg-buh4">24.0</td>
-    <td class="tg-buh4">24.8</td>
-    <td class="tg-buh4">22.9</td>
-    <td class="tg-buh4">-</td>
+    <td>インド</td>
+    <td>22.0</td>
+    <td>23.9</td>
+    <td>24.0</td>
+    <td>24.8</td>
+    <td>22.9</td>
+    <td>-</td>
   </tr>
   <tr>
-    <td class="tg-0lax">ナイジェリア連邦共和国</td>
-    <td class="tg-0lax">25.3</td>
-    <td class="tg-0lax">31.3</td>
-    <td class="tg-0lax">31.4</td>
-    <td class="tg-0lax">18.0</td>
-    <td class="tg-0lax">18.4</td>
-    <td class="tg-0lax">-</td>
+    <td>ナイジェリア連邦共和国</td>
+    <td>25.3</td>
+    <td>31.3</td>
+    <td>31.4</td>
+    <td>18.0</td>
+    <td>18.4</td>
+    <td>-</td>
   </tr>
 </table>
 
@@ -335,48 +289,50 @@
 
 <div class="glossary">
     <h2>
-        用語
+        対訳表
     </h2>
-    <p>
-        <strong>計画経済</strong>
-        <br>政府により経済的な判断が決定され、政府が資源を所有する経済
-    </p>
-    <p>
-        <strong>輸出</strong>
-        <br>国内で生産された商品(財およびサービス)を他国で販売すること
-    </p>
-    <p>
-        <strong>グローバリゼーション</strong>
-        <br>国境を越えた売買が世界的に拡大すること
-    </p>
-    <p>
-        <strong>国内総生産</strong>
-        <br>経済の中の総生産を測るための指標
-    </p>
-    <p>
-        <strong>輸入</strong>
-        <br>他国で生産された商品(財およびサービス)を国内で販売すること
-    </p>
-    <p>
-        <strong>市場</strong>
-        <br>潜在的な買い手と売り手の関わり; 需要と供給が合わさったもの
-    </p>
-    <p>
-        <strong>市場経済</strong>
-        <br>経済的な判断が分散されており、私人が資源を所有し、事業が需要に応じて財やサービスを提供する経済
-    </p>
-    <p>
-        <strong>私企業、民間企業</strong>
-        <br>私人や私人の集団が生産手段(資源と事業)を所有するシステム
-    </p>
-    <p>
-        <strong>伝統経済</strong>
-        <br>それまで行われてきた方法と同じ方法で物事が行われる、たいていの場合農業を中心とした経済
-    </p>
-    <p>
-        <strong>地下経済・アングラ経済</strong>
-        <br>政府の規制を犯す形で買い手と売り手が取引を行う市場
-    </p>
+    <table>
+  <tr>
+    <th>伝統経済</th>
+    <th>traditional economy</th>
+  </tr>
+  <tr>
+    <td>計画経済</td>
+    <td>command economy</td>
+  </tr>
+  <tr>
+    <td>市場</td>
+    <td>market</td>
+  </tr>
+  <tr>
+    <td>市場経済</td>
+    <td>market economy</td>
+  </tr>
+  <tr>
+    <td>私企業、民間企業</td>
+    <td>private enterprise</td>
+  </tr>
+  <tr>
+    <td>地下経済、アングラ経済</td>
+    <td>underground economies</td>
+  </tr>
+  <tr>
+    <td>グローバリゼーション</td>
+    <td>globalization</td>
+  </tr>
+  <tr>
+    <td>輸出</td>
+    <td>exports</td>
+  </tr>
+  <tr>
+    <td>輸入</td>
+    <td>imports</td>
+  </tr>
+  <tr>
+    <td>国内総生産</td>
+    <td>Gross domestic product (GDP)</td>
+  </tr>
+</table>
 </div>
 
 [第1章について >>](Reference)

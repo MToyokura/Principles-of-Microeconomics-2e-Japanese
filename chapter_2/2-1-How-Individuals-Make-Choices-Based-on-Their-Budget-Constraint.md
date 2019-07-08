@@ -99,51 +99,43 @@
     <p>
         ステップ6：この式は図2.2における予算制約線と一致します。式で表されている通り、切片が5で傾きが-0.25です。\( Q_{バスのチケットの枚数} \)に20枚という数字を代入すると、ハンバーガーが0個得られると分かります。\( Q_{バスのチケットの枚数} \)に別の数字を代入すると、別の結果が得られます。表2.1は予算制約線上にとれる点を表しています。
     </p>
-    <style type="text/css">
-        .tg  {border-collapse:collapse;border-spacing:0;border:none;border-color:#ccc;}
-        .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
-        .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
-        .tg .tg-buh4{background-color:#f9f9f9;text-align:left;vertical-align:top}
-        .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-        .tg .tg-0lax{text-align:left;vertical-align:top}
-    </style>
-    <table class="tg">
-    <tr>
-        <th class="tg-0pky">点</th>
-        <th class="tg-0lax">ハンバーガーの個数(1個$2)</th>
-        <th class="tg-0lax">バスのチケットの枚数(1枚50セント)</th>
-    </tr>
-    <tr>
-        <td class="tg-buh4">A</td>
-        <td class="tg-buh4">5</td>
-        <td class="tg-buh4">0</td>
-    </tr>
-    <tr>
-        <td class="tg-0lax">B</td>
-        <td class="tg-0lax">4</td>
-        <td class="tg-0lax">4</td>
-    </tr>
-    <tr>
-        <td class="tg-buh4">C</td>
-        <td class="tg-buh4">3</td>
-        <td class="tg-buh4">8</td>
-    </tr>
-    <tr>
-        <td class="tg-0lax">D</td>
-        <td class="tg-0lax">2</td>
-        <td class="tg-0lax">12</td>
-    </tr>
-    <tr>
-        <td class="tg-buh4">E</td>
-        <td class="tg-buh4">1</td>
-        <td class="tg-buh4">16</td>
-    </tr>
-    <tr>
-        <td class="tg-0lax">F</td>
-        <td class="tg-0lax">0</td>
-        <td class="tg-0lax">20</td>
-    </tr>
-    </table>
+    <table>
+  <tr>
+    <th>点</th>
+    <th>ハンバーガーの個数(1個$2)</th>
+    <th>バスのチケットの枚数(1枚50セント)</th>
+  </tr>
+  <tr>
+    <td>A</td>
+    <td>5</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>B</td>
+    <td>4</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>C</td>
+    <td>3</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>D</td>
+    <td>2</td>
+    <td>12</td>
+  </tr>
+  <tr>
+    <td>E</td>
+    <td>1</td>
+    <td>16</td>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>0</td>
+    <td>20</td>
+  </tr>
+</table>
     <div class="table_text">
         <p>
             <span class="table_title">表 2.1 </span>
@@ -214,34 +206,36 @@
     <h2>
         用語
     </h2>
-    <p>
-        <strong>予算制約</strong>
-        <br>ある人が所得を全額使う前提で購入することが可能な財の組み合わせ; 機会集合の領域内
-    </p>
-    <p>
-        <strong>限界効用逓減の法則</strong>
-        <br>ある財やサービスを消費するごとに、その財やサービスから得られる効用が減少していくこと
-    </p>
-    <p>
-        <strong>限界分析</strong>
-        <br>限界、つまり現状と比較して少し多い、あるいは少し少ない場合における判断の観察
-    </p>
-    <p>
-        <strong>機会費用</strong>
-        <br>ある選択を行ったときに手放すことになるもう片方の選択の費用
-    </p>
-    <p>
-        <strong>機会集合</strong>
-        <br>ある人が予算内で購入することが可能な財の組み合わせ
-    </p>
-    <p>
-        <strong>サンクコスト</strong>
-        <br>過去に発生した取り戻すことのできない費用
-    </p>
-    <p>
-        <strong>効用</strong>
-        <br>財やサービスを消費することで得られる満足感、有用性といった価値。
-    </p>
+    <table>
+  <tr>
+    <th>予算制約</th>
+    <th>budget constraint</th>
+  </tr>
+  <tr>
+    <td>機会費用</td>
+    <td>opportunity cost</td>
+  </tr>
+  <tr>
+    <td>限界分析</td>
+    <td>marginal analysis</td>
+  </tr>
+  <tr>
+    <td>効用</td>
+    <td>utility</td>
+  </tr>
+  <tr>
+    <td>限界効用逓減の法則</td>
+    <td>law of diminishing marginal utility<br></td>
+  </tr>
+  <tr>
+    <td>サンクコスト</td>
+    <td>sunk costs</td>
+  </tr>
+  <tr>
+    <td>機会集合</td>
+    <td>opportunity set</td>
+  </tr>
+</table>
 </div>
 
 [2.2 生産可能性フロンティアと社会の選択 >>](2-2-The-Production-Possibilities-Frontier-and-Social-Choices)
