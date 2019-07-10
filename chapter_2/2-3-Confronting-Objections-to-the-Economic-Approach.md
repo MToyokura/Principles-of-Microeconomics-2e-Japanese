@@ -94,7 +94,7 @@
 
 <div class="glossary">
     <h2>
-        用語(工事中)
+        対訳表
     </h2>
     <table>
   <tr>
