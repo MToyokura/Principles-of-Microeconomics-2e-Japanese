@@ -102,7 +102,7 @@
     <table>
   <tr>
     <th>点</th>
-    <th>ハンバーガーの個数(1個$2)</th>
+    <th>ハンバーガーの個数(1個2ドル)</th>
     <th>バスのチケットの枚数(1枚50セント)</th>
   </tr>
   <tr>
@@ -228,7 +228,7 @@
     <td>law of diminishing marginal utility<br></td>
   </tr>
   <tr>
-    <td>サンクコスト</td>
+    <td>埋没費用、サンクコスト</td>
     <td>sunk costs</td>
   </tr>
   <tr>
