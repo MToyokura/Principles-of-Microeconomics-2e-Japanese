@@ -23,6 +23,7 @@
 * [3.2 財・サービス市場における需要と供給のシフト](chapter_3/3-2-Shifts-in-Demand-and-Supply-for-Goods-and-Services)
 * [3.3 均衡価格と均衡数量の変化：4工程からなる分析](chapter_3/3-3-Changes-in-Equilibrium-Price-and-Quantity-The-Four-Step-Process)
 * [3.4 価格の上限と下限](chapter_3/3-4-Price-Ceilings-and-Price-Floors)
+* [第2章について](chapter_3/Reference)
 
 [第4章 労働市場と金融市場](chapter_4/Introduction)
-[4.1 労働市場における需要と供給](chapter_4/4-1-Demand-and-Supply-at-Work-in-Labor-Markets)
+* [4.1 労働市場における需要と供給](chapter_4/4-1-Demand-and-Supply-at-Work-in-Labor-Markets)
