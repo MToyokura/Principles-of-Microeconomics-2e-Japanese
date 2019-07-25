@@ -87,5 +87,5 @@ Bryan Aguiar, Northwest Arkansas Community College
 <br>西原実穂
 <br>松島耕太
 <br>丸山知紗
-<br>宮部香凛
+<br>宮部香凜
 <br>吉田正恵

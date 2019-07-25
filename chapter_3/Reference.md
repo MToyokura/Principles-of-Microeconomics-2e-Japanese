@@ -26,7 +26,7 @@ Pew Research Center. “Pew Research: Center for the People & the Press.” http
 <br>西原実穂
 <br>松島耕太
 <br>丸山知紗
-<br>宮部香凛
+<br>宮部香凜
 <br>吉田正恵
 
 [第4章 はじめに >>](../chapter_4/Introduction)
