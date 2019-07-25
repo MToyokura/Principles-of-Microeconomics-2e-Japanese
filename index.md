@@ -1,4 +1,4 @@
-﻿OpenStax CNX の Principles of Microeconomics 2e の翻訳を行っていきます。
+OpenStax CNX の Principles of Microeconomics 2e の翻訳を行っていきます。
 
 [序章](preface/Preface)
 
@@ -26,4 +26,5 @@
 * [第2章について](chapter_3/Reference)
 
 [第4章 労働市場と金融市場](chapter_4/Introduction)
+* [はじめに](chapter_4/Introduction)
 * [4.1 労働市場における需要と供給](chapter_4/4-1-Demand-and-Supply-at-Work-in-Labor-Markets)
