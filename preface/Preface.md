@@ -9,15 +9,15 @@ OpenStaxはRice Universityを拠点としている非営利組織で、学生の
 OpenStaxが提供するPrinciples of Microeconomics 2eはクリエイティブ・コモンズライセンス 表示 4.0 国際 (CC BY 4.0)ライセンスのもとに提供されています。このためOpenStax及びコンテンツ作成者に対して適切なクレジット表示を行う限り、再配布、改変、二次利用が可能となっています。
 
 ## この教科書(「ミクロ経済学基礎」)について
-本教科書(「ミクロ経済学基礎」)は、OpenStaxが提供するPrinciples of Microeconomics 2e(Version 11.16)を東京農工大学の学生が有志で翻訳作業を行っているものです。本教科書のライセンスにはPrinciples of Microeconomics 2eと同様にクリエイティブ・コモンズライセンス 表示 4.0 国際 (CC BY 4.0)ライセンスを採用しています。ライセンスの条件に従っている限り複製、再配布、改変などを自由に行うことができます。
+本教科書(「ミクロ経済学基礎」)は、OpenStaxが提供する[Principles of Microeconomics 2e(Version 11.16)](https://cnx.org/contents/XAl2LLVA@11.16:3ZlSW1C7@6/Introduction)を東京農工大学の学生が有志で翻訳作業を行っているものです。本教科書のライセンスにはPrinciples of Microeconomics 2eと同様にクリエイティブ・コモンズライセンス 表示 4.0 国際 (CC BY 4.0)ライセンスを採用しています。ライセンスの条件に従っている限り複製、再配布、改変などを自由に行うことができます。
 
-本教科書は、人々に使われ、改善点を指摘されることでより良いものとなります。誤表記、訂正や改良の指摘、提案などございましたら[こちら(https://github.com/MToyokura/Principles-of-Microeconomics-2e-Japanese/issues)](https://github.com/MToyokura/Principles-of-Microeconomics-2e-Japanese/issues)へおねがいいたします。
+本教科書は、人々に使われ、改善点を指摘されることでより良いものとなります。誤表記、訂正や改良の指摘、提案などございましたら[こちら(https://github.com/MToyokura/Principles-of-Microeconomics-2e-Japanese/issues)](https://github.com/MToyokura/Principles-of-Microeconomics-2e-Japanese/issues)へおねがいいたします。GitHub上で内容の管理を行っているのでGitが使える方はリポジトリをフォークしてプルリクエストを送っていただいてもけっこうです。
 
 ## Principles of Microeconomics 2eの著者
 ### Senior contributing authors
 **Steven A. Greenlaw, University of Mary Washington**
 
-Steven Greenlawは30年以上経済学の基礎を教えています。1999年にUniversity of Mary Washingtonで学部生向けの授業での賞を受賞ました。「Doing Economics: A Guide to Doing and Understanding Economic Research」の著者でもあり、Journal of Economic EducationやInternational Review of Economic Educationにて数々の教育学や指導技術に関する記事を投稿しています。経済学を教える際のベストプラクティスについてのウェブポータルである「Quantitative Writing for Starting Point: Teaching and Learning Economics」も書いています。
+Steven Greenlawは30年以上経済学の基礎を教えています。1999年にUniversity of Mary Washingtonで学部生向けの授業での賞を受賞しました。「Doing Economics: A Guide to Doing and Understanding Economic Research」の著者でもあり、Journal of Economic EducationやInternational Review of Economic Educationにて数々の教育学や指導技術に関する記事を投稿しています。経済学を教える際のベストプラクティスについてのウェブポータルである「Quantitative Writing for Starting Point: Teaching and Learning Economics」も書いています。
 
 **David Shapiro, Pennsylvania State University**
 
