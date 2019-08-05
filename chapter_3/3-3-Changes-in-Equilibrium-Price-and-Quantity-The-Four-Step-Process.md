@@ -224,4 +224,4 @@ paribusの仮定にあります。まず一つ一つの経済における事柄�
     </ol>
 </div>
 
-[3.4 価格の上限と下限 >>](3-4-Price-Ceilings-and-Price-Floors)
+[3.4 上限価格と下限価格 >>](3-4-Price-Ceilings-and-Price-Floors)
