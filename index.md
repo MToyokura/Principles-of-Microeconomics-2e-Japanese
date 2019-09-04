@@ -29,5 +29,5 @@ OpenStax CNX の Principles of Microeconomics 2e の翻訳を行っていきま�
 * [はじめに](chapter_4/Introduction)
 * [4.1 労働市場における需要と供給](chapter_4/4-1-Demand-and-Supply-at-Work-in-Labor-Markets)
 * [4.2 金融市場における需要と供給](chapter_4/4-2-Demand-and-Supply-in-Financial-Markets)
-* [4.3 効率の良い情報のメカニズムとしての市場](chapter_4/4-3-The-Market-System-as-an-Efficient-Mechanism-for-Information)
+* [4.3 効率の良い情報伝達のメカニズムとしての市場](chapter_4/4-3-The-Market-System-as-an-Efficient-Mechanism-for-Information)
 * [第4章について](chapter_4/Reference)
