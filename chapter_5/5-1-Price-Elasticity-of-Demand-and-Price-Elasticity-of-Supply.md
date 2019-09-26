@@ -10,28 +10,7 @@
 私たちは弾力性をおおまかに「弾力的」、「非弾力的」、「単位弾力的」の3つに分類できます。**弾力的な需要**または**弾力的な供給**は、弾力性が1よりも大きく、価格の変化に対する反応が大きいことを表します。弾力性が1より小さい場合は、価格の変化に対して反応が小さいことを表し、**非弾力的な需要**または**非弾力的な供給**と呼ばれます。**単位弾力的な弾力性**は表5.1に示されるように需要と供給がともに釣り合った反応を見せます。
 
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
-<!-- <table>
-  <tr>
-    <th>条件</th>
-    <th>つまり<th>
-    <th>分類</th>
-  </tr>
-  <tr>
-    <td>$$ \text{ 数量の変化率 } \gt \text{ 価格の変化率 } $$</td>
-    <td>$$ \frac{ \text{ 数量の変化率 }}{ \text{ 価格の変化率 }} \gt 1 $$</td>
-    <td>弾力的</td>
-  </tr>
-  <tr>
-    <td>$$ \text{ 数量の変化率 } = \text{ 価格の変化率 } $$</td>
-    <td>$$ \frac{ \text{ 数量の変化率 }}{ \text{ 価格の変化率 }} = 1 $$</td>
-    <td>単位弾力的</td>
-  </tr>
-  <tr>
-    <td>$$ \text{ 数量の変化率 } \lt \text{ 価格の変化率 } $$</td>
-    <td>$$ \frac{ \text{ 数量の変化率 }}{ \text{ 価格の変化率 }} \lt 1 $$</td>
-    <td>非弾力的</td>
-  </tr>
-</table> -->
+<img src="img/Table_5.1_small.png" alt="弾力性の3つの分類">
 <div class="table_text">
   <p>
     <span class="table_title">表5.1 弾力性の3つの分類</span>
