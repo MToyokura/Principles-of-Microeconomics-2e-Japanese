@@ -31,3 +31,7 @@ OpenStax CNX の Principles of Microeconomics 2e の翻訳を行っていきま�
 * [4.2 金融市場における需要と供給](chapter_4/4-2-Demand-and-Supply-in-Financial-Markets)
 * [4.3 効率の良い情報伝達のメカニズムとしての市場](chapter_4/4-3-The-Market-System-as-an-Efficient-Mechanism-for-Information)
 * [第4章について](chapter_4/Reference)
+
+[第5章 弾力性](chapter_5/Introduction)
+* [はじめに](chapter_5/Introduction)
+* [5.1 需要の価格弾力性と供給の価格弾力性](chapter_5/5-1-Price-Elasticity-of-Demand-and-Price-Elasticity-of-Supply)
