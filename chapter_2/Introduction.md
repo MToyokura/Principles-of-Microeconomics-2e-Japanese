@@ -34,10 +34,10 @@
 経済学と希少性の関係性を観察すると、選択にはトレードオフがかかわっていることがすぐわかるでしょう。すべての選択には犠牲がついてきます。
 
 
-<div class="translator_notes">
+<!-- <div class="translator_notes">
   <p>＜訳注＞日本語に翻訳した際に文章の理解が難しくなると判断したため以下の文を割愛しました。
   <br> "In 1968, the Rolling Stones recorded “You Can’t Always Get What You Want.” Economists chuckled, because they had been singing a similar tune for decades. "</p>
-</div>
+</div> -->
 
 イギリスの経済学者Lionel Robbins (1898–1984)は1932年のEssay on the Nature and Significance of Economic Scienceの自身のエッセーにて、いつも自分の欲しいものが手に入るとは限らないことを以下のように述べていました。
 

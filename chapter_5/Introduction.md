@@ -36,10 +36,10 @@
 
 これらの質問に対する解答を見つけるためには、私たちは**弾力性**という概念を理解する必要があります。弾力性とは経済学の概念で、ある変数の変化に対する他の変数の変化の度合いを測る指標です。 
 
-<div class="translator_notes">
+<!-- <div class="translator_notes">
   <p>＜訳注＞例えが分かりづらいと判断したため以下の文章を割愛しました。
   <br>"Suppose you drop two items from a second-floor balcony. The first item is a tennis ball. The second item is a brick. Which will bounce higher? Obviously, the tennis ball. We would say that the tennis ball has greater elasticity."</p>
-</div>
+</div> -->
 
 経済における弾力性の例を考えてみましょう。たばこ税は、お酒のように身体によくないものに対して課される「悪行税」の一例です。政府は、州や国家レベルでたばこに税を課しています。州の税率はミズーリ州の1箱17セントから、ニューヨーク州の1箱4.35ドルまでと幅があります。平均は1箱1.69ドルです。連邦の税率は2014年には1箱1.01ドルでしたが、2015年にオバマ政権は連邦による税率を1ドル近く引上げた1箱1.95ドルにすることを提案しました。鍵となる問題は「どのくらいタバコの購入量が減少するか」ということです。
 
