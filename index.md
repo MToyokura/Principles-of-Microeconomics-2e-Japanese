@@ -37,3 +37,4 @@ OpenStax CNX の Principles of Microeconomics 2e の翻訳を行っていきま�
 * [5.1 需要の価格弾力性と供給の価格弾力性](chapter_5/5-1-Price-Elasticity-of-Demand-and-Price-Elasticity-of-Supply)
 * [5.2 極端な弾力性と等弾力性](chapter_5/5-2-Polar-Cases-of-Elasticity-and-Constant-Elasticity)
 * [5.3 弾力性と価格決定](chapter_5/5-3-Elasticity-and-Pricing)
+* [5.4 価格以外での弾力性](chapter_5/5-4-Elasticity-in-Areas-Other-Than-Price)
