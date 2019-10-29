@@ -39,3 +39,6 @@ OpenStax CNX の Principles of Microeconomics 2e の翻訳を行っていきま�
 * [5.3 弾力性と価格決定](chapter_5/5-3-Elasticity-and-Pricing)
 * [5.4 価格以外での弾力性](chapter_5/5-4-Elasticity-in-Areas-Other-Than-Price)
 * [第5章について](chapter_5/Reference)
+
+[第6章 消費者選択](chapter_6/Introduction)
+* [はじめに](chapter_6/Introduction)
