@@ -489,26 +489,6 @@ Joséさんは明確に点Pより点Qを選ぶのが望ましいと考えます�
     </h2>
     <table>
         <tr>
-            <td>需要の交差価格弾力性</td>
-            <td>cross-price elasticity of demand</td>
-        </tr>
-        <tr>
-            <td>労働供給の賃金弾力性</td>
-            <td>wage elasticity of labor supply</td>
-        </tr>
-        <tr>
-            <td>貯蓄の弾力性</td>
-            <td>elasticity of savings</td>
-        </tr>
-    </table>
-</div>
-
-<div class="glossary">
-    <h2>
-        対訳表
-    </h2>
-    <table>
-        <tr>
             <td>予算制約線</td>
             <td>budget constraint (or budget line)</td>
         </tr>
