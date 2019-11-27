@@ -44,3 +44,5 @@ OpenStax CNX の Principles of Microeconomics 2e の翻訳を行っていきま�
 * [はじめに](chapter_6/Introduction)
 * [6.1 消費選択](chapter_6/6-1-Consumption-Choices)
 * [6.2 所得と価格の変化が消費選択に与える影響](chapter_6/6-2-How-Changes-in-Income-and-Prices-Affect-Consumption-Choices)
+* [6.3 行動経済学：消費者選択の代替的なフレームワーク](chapter_6/6-3-Behavioral-Economics-An-Alternative-Framework-for-Consumer-Choice)
+* [第6章について](chapter_6/Reference)
