@@ -48,4 +48,4 @@ OpenStax CNX の Principles of Microeconomics 2e の翻訳を行っていきま�
 * [第6章について](chapter_6/Reference)
 
 補論
-* [補論 B | 無差別曲線](appendix/B-Indifference-Curves)
+* [補論 B 無差別曲線](appendix/B-Indifference-Curves)
