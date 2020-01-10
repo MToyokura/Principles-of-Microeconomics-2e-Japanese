@@ -27,4 +27,4 @@ UNESCO Institute for Statistics. “Statistics in Brief / Profiles” Accessed A
 <br>丸山知紗
 <br>吉田正恵
 
-[第6章 はじめに >>](../chapter_7/Introduction)
+[第7章 はじめに >>](../chapter_7/Introduction)
